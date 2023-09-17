@@ -1,1 +1,1 @@
-Sitemap: https://ilja01.github.io/test/sitemap.xml
+Sitemap: https://github.com/ilja01/test/sitemap.xml
